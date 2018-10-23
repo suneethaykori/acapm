@@ -1,0 +1,19 @@
+{
+  "name": "acapm",
+  "version": "1.0.0",
+  "description": "* Create a node program\r * Check for the first process argument to be init\r * If the first argument is init continue processing else end the program\r * check if a file named package.json already exists, if it does exit the program\r * Use readline to ask for 5 inputs\r * Create a string that is a json object\r * The key values should be the inputs you get from the user\r * Save this json to a file called package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suneethaykori/acapm.git"
+  },
+  "author": "Suneetha Kori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suneethaykori/acapm/issues"
+  },
+  "homepage": "https://github.com/suneethaykori/acapm#readme"
+}
