@@ -14,7 +14,7 @@ fs.readFile('package.json', 'utf8', function (err,data) {
  //console.log("do next stuff here ")
 });
 
-const qArr =['FName','LName','DOB','City','State'];
+const qArr =['Name','Version','Description','Keywords','Author'];
 
 var readline = require('readline');
 var log = console.log;
